@@ -42,6 +42,7 @@ The CUAD-based contract triage pipeline is a high-value industrial use case with
 
 **Company / Org:** Accenture  
 **Challenge Advisor:** Krol Mathias, [Email address]  
+**AI Studio Coach:** Harshini Donepudi, harshini.donepudi@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
