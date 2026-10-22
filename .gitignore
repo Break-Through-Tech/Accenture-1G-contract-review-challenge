@@ -5,3 +5,8 @@ data/*
 
 .DS_Store
 
+# Jupyter temporary files
+.virtual_documents/
+
+# Local Anaconda files
+anaconda_projects/
